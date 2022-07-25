@@ -2,5 +2,5 @@
 *.pyc
 node_modules
 npm-debug.log
-frontend/build/*
+# frontend/build/*
 /myvenv/
