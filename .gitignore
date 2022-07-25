@@ -1,6 +1,2 @@
-.DS_Store
-*.pyc
-node_modules
-npm-debug.log
-# frontend/build/*
-/myvenv/
+myvenv
+__pycache__
